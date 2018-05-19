@@ -1,0 +1,108 @@
+body {
+  font-family: "Open Sans";
+}
+.top-bar{
+  background-color: #3e94cd;
+  color: white;
+  font-size: 25px;
+  height: 10%;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.main-content {
+  padding-top: 70px;
+}
+.ebook-infos h3{
+  color: #0088CC;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 30px;
+}
+.panel {
+  text-align: center;
+  max-width: 400px;
+  background-color:  #F0F0F0;
+}
+.glyphicon {
+  font-size: 50px;
+}
+.ebook-infos h4{
+  color: lightgray;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  line-height: 35px;
+}
+.content-wrapper{
+  margin-top: 150px;
+  padding-top: 50px;
+  min-height: 420px;
+}
+.form-wrapper{
+  background-color: #696969;
+  padding-top: 200px;
+  min-height: 750px;
+  border: hidden;
+  border-radius: 0 0 6px 6px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  margin-top: -70px;
+}
+.medias-wrapper {
+  background-color: #F0F0F0;  
+}
+.medias-wrapper h2{
+  font-size: 25px;
+  color: #0088CC;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.medias-wrapper h3{
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.form-item {
+  padding-bottom: 2px;
+}
+p {
+  font-size: 12px;
+  text-align: center;
+}
+.btn{  
+  white-space: normal !important;
+  word-wrap: break-word;
+  margin-top: 25px;
+  background-color: #FFAD42;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+.ebook-content {
+  color: #696969;
+  font-size: 16px;
+  font-weight: bold;
+}
+.background-content {
+ height: 90vh;
+ padding-top: 70px;
+ background-image: url('https://s3-sa-east-1.amazonaws.com/sb-marketing/2017/lp/intranet-jan-2017/bg_lp_intranet.png');
+}
+footer {
+  background-color: #F0F0F0;
+  color: #696969;
+  font-size: 8px;
+  font-family: "Open Sans";
+  font-style: normal;
+	font-variant: normal;
+  text-align: center;
+}
+.ebook-infos-wrapper{
+  background-color: rgba(69, 69, 69, 0.8);
+}
